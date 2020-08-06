@@ -1,0 +1,10 @@
+state: 
+utah
+election: 
+SEN16
+population bound: 
+0.01
+number of steps: 
+100000
+dumping interval: 
+10000
